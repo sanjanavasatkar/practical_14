@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+<student>
+<regno>101</regno>
+<name>Sanjana Vasatkar</name>
+<mobile>9876543210</mobile>
+<dob>2006-05-12</dob>
+<email>sanjana@email.com</email>
+</student>
+
+<student>
+<regno>102</regno>
+<name>Rahul Patil</name>
+<mobile>9123456780</mobile>
+<dob>2005-11-20</dob>
+<email>rahul@email.com</email>
+</student>
+
+<student>
+<regno>103</regno>
+<name>Pooja Sharma</name>
+<mobile>9988776655</mobile>
+<dob>2006-02-15</dob>
+<email>pooja@email.com</email>
+</student>
+
+</students>
